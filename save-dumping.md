@@ -1,13 +1,14 @@
 # Xbox One Save Ripping Guide v1.3
 ## By CVFD
-### Revised 8/17/19
+## Revised 8/17/19
+## 
 
-Required:
+## Required:
 - PC with Windows 10
 - Xbox One
 - Internet Access
 
-Tutorial:
+## Tutorial:
 1. Install "UFO.Transfer" on your Xbox and PC with the Microsoft store. Also install "File Explorer" on your Xbox if it isn't on there. 
 2. Make sure the Xbox One and PC are connected to the same network.
 3. On the Xbox, go to settings and then "Display & Sound", "Video output", "Video fidelity & overscan", and untick the box that says "Apps can add a border".
