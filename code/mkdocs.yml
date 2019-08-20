@@ -1,0 +1,5 @@
+site_name: Xbox Save Guide
+
+theme: 
+  name: 'material'
+  favicon: 'assets/images/favicon.ico'
