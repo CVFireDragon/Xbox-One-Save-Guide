@@ -1,4 +1,4 @@
 # Xbox-One-Save-Guide
 An Xbox One Save Guide
 
-Repo for hosting [The Website](https://cvfiredragon.github.io/xboxguide)'s code.
+Repo for hosting [Xbox Guide Website](https://cvfiredragon.github.io/xboxguide)'s code.
